@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Mob App Gazizullina 6233</string>
+    <string name="text" translatable="false">Задай вопрос: да или нет</string>
+    <string name="button" translatable="false">Получить ответ</string>
+</resources>
